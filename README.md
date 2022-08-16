@@ -48,5 +48,5 @@ I'm Luciano, developer and support tech. I think I have a multidisciplinary mind
 
 
 Contact me:
-Mail: carduccilucianof@gmail.com
+Mail: carduccilucianof@gmail.com,
 Linkedin: https://www.linkedin.com/in/lucianofedericocarducci
