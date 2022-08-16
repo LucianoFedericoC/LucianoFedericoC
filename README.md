@@ -1,16 +1,52 @@
-### Hi there 👋
+### Hi!
 
-<!--
-**LucianoFedericoC/LucianoFedericoC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Luciano, developer and support tech. I think I have a multidisciplinary mind. I love to create new things and sharing knowledge too. I like talking about science and tecnology.
 
-Here are some ideas to get you started:
+⚫ Skills :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+· ⦿ Proactive
+
+· ⦿ Active listener
+
+· ⦿ Comunicative
+
+· ⦿ Teamwork
+
+⚫ I feel comfortable working with :
+
+· ⦿ HTML5
+
+· ⦿ CSS3
+
+· ⦿ Tailwind
+
+· ⦿ GIT
+
+· ⦿ Javascript ES6+
+
+· ⦿ React
+
+· ⦿ Redux
+
+· ⦿ Insomnia
+
+· ⦿ Postman
+
+· ⦿ Node
+
+· ⦿ Express
+
+· ⦿ Cloudinary
+
+· ⦿ Sequalize
+
+· ⦿ React Testing Library
+
+· ⦿ Vercel
+
+· ⦿ Heroku
+
+
+Contact me:
+Mail: carduccilucianof@gmail.com
+Linkedin: https://www.linkedin.com/in/lucianofedericocarducci
